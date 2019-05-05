@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Boogle</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="unknown">Unknown</string>
+    <string name="author"><b>Authors: </b></string>
+    <string name="publisher"><b>Publisher: </b></string>
+    <string name="published_date"><b>Published on: </b></string>
+    <string name="description">Description</string>
+</resources>
